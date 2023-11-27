@@ -1,3 +1,7 @@
+# Section 10
+
+Library Project - React Front End - Home Page
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
