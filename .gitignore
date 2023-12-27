@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# OKTA config
+/src/lib/private-oktaConfig.ts
+/src/lib/public-oktaConfig.ts
+
