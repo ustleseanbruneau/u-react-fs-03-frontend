@@ -27,3 +27,4 @@ yarn-error.log*
 /src/lib/private-oktaConfig.ts
 /src/lib/public-oktaConfig.ts
 
+.vscode/
